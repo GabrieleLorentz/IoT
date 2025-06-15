@@ -1,4 +1,4 @@
-# Challenges of the Internet of Things course at Polimi during the academic year 2024/2025.
+# Challenges of Internet of Things course at Polimi during the academic year 2024/2025.
 
 1: Wokwi and Power Consumption  
 2: Packet Sniffing  
